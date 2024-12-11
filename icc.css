@@ -1,0 +1,153 @@
+html{
+    width: 0px;
+    padding: 0;
+}
+
+
+head{
+    width: 0px;
+    padding: 0;
+}
+
+*{
+    display: flex;
+    flex-direction: row;
+    gap: 0px;
+    padding: 0px;
+    align-items: center;
+    
+    
+    
+    
+
+}
+
+.rightside  {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    margin: 0px;
+    height: 100vh;
+    width: 600px;
+    background-color: black;
+    padding-left: 10px;
+    }
+
+
+#imge{
+    display: flex;
+   width: 300px;
+   height: 100vh;
+   padding: 0px;
+  
+   
+
+
+}
+ .allform  {
+    display: flex;
+    flex-direction: row;
+    gap: 100px;
+     }
+
+
+  #leftform{
+display: flex;
+flex-direction: column;
+gap: 10px;
+}
+
+ #rightform{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    }
+
+.Submit{
+        background-color: rgb(6, 17, 138);
+        color: rgb(252, 252, 252);
+        font-size: 15px;
+        width: 130px;
+        height: 30px;
+        border: 2px solid red;
+        border-radius: 5px;
+        height: 30px
+        padding: left 10%;
+        
+        
+        
+    }
+
+    #first{
+        display: flex;
+        flex-direction: column;
+        gap:4px ;
+    }
+
+    #second{
+        display: flex;
+        flex-direction: column;
+        gap:4px ;
+    }
+
+    #third{
+        display: flex;
+        flex-direction: column;
+        gap:4px ;
+    }
+
+    #fourth{
+        display: flex;
+        flex-direction: column;
+        gap:4px ;
+    }
+
+    #fifth{
+        display: flex;
+        flex-direction: column;
+        gap:4px ;
+    }
+
+    #sixth{
+        display: flex;
+        flex-direction: column;
+        gap:4px ;
+    }
+
+    label{
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: 13px;
+        font-style: italic;
+        font-weight: bold;
+        color: brown;
+    
+    }
+
+    input {
+        border: 4px sandybrown solid;
+        border-radius: 10px;
+        width: 200px;
+        height: 20px;
+    }
+
+    .para {
+        color: antiquewhite;
+        padding: 30px;
+    }
+
+    .Sub {
+       display: flex;
+       flex-direction: column;
+        padding: 30px;
+    }
+
+    :root{
+        width: 100vw;
+        height: 100vh;
+    }
+
+    #tt{
+        color: aliceblue;
+        font-size: 15px   ;
+    }
+
